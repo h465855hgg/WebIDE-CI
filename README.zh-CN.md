@@ -1,3 +1,9 @@
+<div align="right">
+  语言: 
+  <a href="./README.md">English</a>
+  简体中文
+</div>
+
 ### 这个仓库将作为WebIDE的构建CI版本仓库,此举实属无奈,不开源了也很抱歉,
 
 # WebIDE
@@ -7,8 +13,6 @@
 [![UI](https://img.shields.io/badge/UI-Jetpack_Compose-green?style=flat-square)](https://developer.android.com/jetpack/compose)
 [![License](https://img.shields.io/badge/License-GPLv3-orange?style=flat-square)](LICENSE)
 
-
-[ [English](README.md) ] | [ **中文** ]
 
 WebIDE 是一个基于 Android 原生的 Web 前端集成开发环境。该项目完全采用 Jetpack Compose 构建，实现了从代码编辑到在手机上直接构建 APK 的完整工作流。
 

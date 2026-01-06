@@ -1,3 +1,9 @@
+<div align="right">
+  Language: 
+  English
+  <a href="./README.zh-CN.md">简体中文</a>
+</div>
+
 ### This repository will serve as the CI build version repository for WebIDE. This move is made out of necessity, and I apologize for not making it open source.
 
 # WebIDE
@@ -7,8 +13,6 @@
 [![UI](https://img.shields.io/badge/UI-Jetpack_Compose-green?style=flat-square)](https://developer.android.com/jetpack/compose)
 [![License](https://img.shields.io/badge/License-GPLv3-orange?style=flat-square)](LICENSE)
 
-
-[ [**English**] ] | [ [中文](README.zh-CN.md) ]
 
 WebIDE is a native Android Integrated Development Environment (IDE) for web front-end development. Built entirely with Jetpack Compose, this project implements a complete workflow ranging from code editing to building APKs directly on your mobile device.
 
