@@ -1,10 +1,10 @@
+> This repository will serve as the CI build version repository for WebIDE. This move is made out of necessity, and I apologize for not making it open source.
+
 <div align="right">
   Language: 
   English
   <a href="./README.zh-CN.md">简体中文</a>
 </div>
-
-### This repository will serve as the CI build version repository for WebIDE. This move is made out of necessity, and I apologize for not making it open source.
 
 # WebIDE
 
@@ -36,3 +36,9 @@ This is an experimental engineering project; its core architecture and code logi
 ## Discussion
 
 * QQ Group: [1050254184](https://qm.qq.com/q/tFXuqMQDlK)
+
+## Contributer
+
+<a href="https://github.com/h465855hgg/WebIDE/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=h465855hgg/WebIDE-CI" />
+</a>

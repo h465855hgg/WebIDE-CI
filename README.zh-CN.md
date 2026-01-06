@@ -1,10 +1,10 @@
+> 这个仓库将作为WebIDE的构建CI版本仓库,此举实属无奈,不开源了也很抱歉
+
 <div align="right">
   语言: 
   <a href="./README.md">English</a>
   简体中文
 </div>
-
-### 这个仓库将作为WebIDE的构建CI版本仓库,此举实属无奈,不开源了也很抱歉,
 
 # WebIDE
 
@@ -41,5 +41,5 @@ WebIDE 是一个基于 Android 原生的 Web 前端集成开发环境。该项�
 ## 贡献者
 
 <a href="https://github.com/h465855hgg/WebIDE/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=h465855hgg/WebIDE" />
+  <img src="https://contrib.rocks/image?repo=h465855hgg/WebIDE-CI" />
 </a>
