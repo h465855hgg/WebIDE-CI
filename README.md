@@ -1,4 +1,10 @@
-### This repository will serve as the CI build version repository for WebIDE. This move is made out of necessity, and I apologize for not making it open source.
+> This repository will serve as the CI build version repository for WebIDE. This move is made out of necessity, and I apologize for not making it open source.
+
+<div align="right">
+  Language: 
+  English
+  <a href="./README.zh-CN.md">简体中文</a>
+</div>
 
 # WebIDE
 
@@ -8,8 +14,6 @@
 [![License](https://img.shields.io/badge/License-GPLv3-orange?style=flat-square)](LICENSE)
 
 
-[ [**English**] ] | [ [中文](README_CN.md) ]
-
 WebIDE is a native Android Integrated Development Environment (IDE) for web front-end development. Built entirely with Jetpack Compose, this project implements a complete workflow ranging from code editing to building APKs directly on your mobile device.
 
 This is an experimental engineering project; its core architecture and code logic were collaboratively completed by multiple AI models (Claude, Gemini, DeepSeek).
@@ -17,8 +21,8 @@ This is an experimental engineering project; its core architecture and code logi
 ## Screenshots
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/2eac6ea4-25a1-4a02-b814-2925ffb2092e" width="45%" />
-  <img src="https://github.com/user-attachments/assets/7999b42a-af56-4aea-b705-920e7e168844" width="45%" />
+  <img src="public/preview/image1.png" width="45%" />
+  <img src="public/preview/image2.png" width="45%" />
 </div>
 
 
@@ -32,3 +36,9 @@ This is an experimental engineering project; its core architecture and code logi
 ## Discussion
 
 * QQ Group: [1050254184](https://qm.qq.com/q/tFXuqMQDlK)
+
+## Contributer
+
+<a href="https://github.com/h465855hgg/WebIDE/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=h465855hgg/WebIDE-CI" />
+</a>

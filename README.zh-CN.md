@@ -1,4 +1,10 @@
-### 这个仓库将作为WebIDE的构建CI版本仓库,此举实属无奈,不开源了也很抱歉,
+> 这个仓库将作为WebIDE的构建CI版本仓库,此举实属无奈,不开源了也很抱歉
+
+<div align="right">
+  语言: 
+  <a href="./README.md">English</a>
+  简体中文
+</div>
 
 # WebIDE
 
@@ -8,8 +14,6 @@
 [![License](https://img.shields.io/badge/License-GPLv3-orange?style=flat-square)](LICENSE)
 
 
-[ [English](README.md) ] | [ **中文** ]
-
 WebIDE 是一个基于 Android 原生的 Web 前端集成开发环境。该项目完全采用 Jetpack Compose 构建，实现了从代码编辑到在手机上直接构建 APK 的完整工作流。
 
 这是一个实验性的工程项目，其核心架构与代码逻辑由多个 AI 模型（Claude, Gemini, DeepSeek）协作完成。
@@ -17,8 +21,8 @@ WebIDE 是一个基于 Android 原生的 Web 前端集成开发环境。该项�
 ## 项目截图
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/2eac6ea4-25a1-4a02-b814-2925ffb2092e" width="45%" />
-  <img src="https://github.com/user-attachments/assets/7999b42a-af56-4aea-b705-920e7e168844" width="45%" />
+  <img src="public/preview/image1.png" width="45%" />
+  <img src="public/preview/image2.png" width="45%" />
 </div>
 
 
@@ -37,5 +41,5 @@ WebIDE 是一个基于 Android 原生的 Web 前端集成开发环境。该项�
 ## 贡献者
 
 <a href="https://github.com/h465855hgg/WebIDE/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=h465855hgg/WebIDE" />
+  <img src="https://contrib.rocks/image?repo=h465855hgg/WebIDE-CI" />
 </a>
