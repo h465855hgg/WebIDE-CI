@@ -21,8 +21,8 @@ WebIDE 是一个基于 Android 原生的 Web 前端集成开发环境。该项�
 ## 项目截图
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/2eac6ea4-25a1-4a02-b814-2925ffb2092e" width="45%" />
-  <img src="https://github.com/user-attachments/assets/7999b42a-af56-4aea-b705-920e7e168844" width="45%" />
+  <img src="public/preview/image1.png" width="45%" />
+  <img src="public/preview/image2.png" width="45%" />
 </div>
 
 
