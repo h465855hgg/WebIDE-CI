@@ -8,7 +8,7 @@
 [![License](https://img.shields.io/badge/License-GPLv3-orange?style=flat-square)](LICENSE)
 
 
-[ [**English**] ] | [ [中文](README_CN.md) ]
+[ [**English**] ] | [ [中文](README.zh-CN.md) ]
 
 WebIDE is a native Android Integrated Development Environment (IDE) for web front-end development. Built entirely with Jetpack Compose, this project implements a complete workflow ranging from code editing to building APKs directly on your mobile device.
 
