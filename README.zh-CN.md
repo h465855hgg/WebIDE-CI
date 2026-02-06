@@ -1,3 +1,5 @@
+> 项目已归档请前往 https://github.com/h465855hgg/WebIDE
+
 > 这个仓库将作为WebIDE的构建CI版本仓库,此举实属无奈,不开源了也很抱歉
 
 <div align="right">
